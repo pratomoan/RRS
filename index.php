@@ -13,7 +13,7 @@ $xml = json_decode(json_encode(simplexml_load_string($rssData, null, LIBXML_NOCD
 <html lang="en">
 
 <head>
-    <title>Kaneko Hato</title>
+    <title>Tribun IDN RRS</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="assets/bootstrap/bootstrap.min.css">
@@ -26,12 +26,12 @@ $xml = json_decode(json_encode(simplexml_load_string($rssData, null, LIBXML_NOCD
 
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
         <!-- Brand/logo -->
-        <a class="navbar-brand" href="#">RSS TRIBUN</a>
+        <a class="navbar-brand" href="#">Tribun Indonesia RRS</a>
 
         <!-- Links -->
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="#">TribunNews</a>
+                <a class="nav-link" href="#">Tribun News</a>
             </li>
         </ul>
     </nav>
