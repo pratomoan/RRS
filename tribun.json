@@ -1,0 +1,384 @@
+{
+    "rss": {
+        "channel": {
+            "title": "Tribunnews.com",
+            "link": [
+                {
+                    "_href": "https://www.tribunnews.com/rss",
+                    "_rel": "self",
+                    "_type": "application/rss+xml",
+                    "__prefix": "atom"
+                },
+                "https://www.tribunnews.com/"
+            ],
+            "description": "Berita Terkini dari Tribunnews.com",
+            "language": "id",
+            "copyright": "2021 Tribunnews.com",
+            "pubDate": "Tue, 23 Mar 2021 20:05:06 +0700",
+            "updatePeriod": {
+                "__prefix": "sy",
+                "__text": "hourly"
+            },
+            "updateFrequency": {
+                "__prefix": "sy",
+                "__text": "1"
+            },
+            "image": {
+                "link": "https://www.tribunnews.com/",
+                "title": "Tribunnews.com",
+                "url": "https://cdn-1.tstatic.net/img/logo/tribun/png/tribunnews.png",
+                "width": "130",
+                "height": "35",
+                "description": "Tribunnews.com"
+            },
+            "item": [
+                {
+                    "title": "Perkuat Regenerasi Atlet, PPOM Kabupaten Bogor Buka Seleksi 12 Cabang Olahraga",
+                    "link": "https://www.tribunnews.com/sport/2021/03/23/perkuat-regenerasi-atlet-ppom-kabupaten-bogor-buka-seleksi-12-cabang-olahraga",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/ppom-berbicara-tentang-regenerasi-atlet-untuk-meraih-prestasi-1.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Kepala UPT PPOPM, Bedsy Alwin Rumate mengatakan, seleksi atlet PPOPM Dispora Kabupaten Bogor ini ada 12 cabang olahraga. "
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/ppom-berbicara-tentang-regenerasi-atlet-untuk-meraih-prestasi-1.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:49:46 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/sport/2021/03/23/perkuat-regenerasi-atlet-ppom-kabupaten-bogor-buka-seleksi-12-cabang-olahraga"
+                    }
+                },
+                {
+                    "title": "Terbukti Berzina, Dua Remaja di Aceh Dieksekusi Cabuk 200 Kali, Menangis Kesakitan",
+                    "link": "https://www.tribunnews.com/regional/2021/03/23/terbukti-berzina-dua-remaja-di-aceh-dieksekusi-cabuk-200-kali-menangis-kesakitan",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/terbukti-berzina-dua-remaja-di-aceh-dieksekusi-cabuk-200-kali-menangis-kesakitan.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Pasangan remaja (19) dan MI (20) harus menerima hukuman cambuk sebanyak 200 kali."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/terbukti-berzina-dua-remaja-di-aceh-dieksekusi-cabuk-200-kali-menangis-kesakitan.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:49:36 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/regional/2021/03/23/terbukti-berzina-dua-remaja-di-aceh-dieksekusi-cabuk-200-kali-menangis-kesakitan"
+                    }
+                },
+                {
+                    "title": "Stimulus Listrik PLN Diperpanjang Mulai April - Juni 2021, Tapi Tak Ada Lagi Token Listrik Gratis",
+                    "link": "https://www.tribunnews.com/bisnis/2021/03/23/stimulus-listrik-pln-diperpanjang-mulai-april-juni-2021-tapi-tak-ada-lagi-token-listrik-gratis",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/stimulus-listrik-pln-diperpanjang-mulai-april-juni-2021.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Stimulus Listrik PLN Diperpanjang Mulai April - Juni 2021, Tapi Tidak Ada Lagi Token Listrik Gratis alias diskon 100 persen untuk pelanggan 450VA."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/stimulus-listrik-pln-diperpanjang-mulai-april-juni-2021.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:47:13 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/bisnis/2021/03/23/stimulus-listrik-pln-diperpanjang-mulai-april-juni-2021-tapi-tak-ada-lagi-token-listrik-gratis"
+                    }
+                },
+                {
+                    "title": "Parlemen Australia Diguncang Video Seksual Para Pejabat, PSK Disebut Keluar Masuk Gedung",
+                    "link": "https://www.tribunnews.com/internasional/2021/03/23/parlemen-australia-diguncang-video-seksual-para-pejabat-psk-disebut-keluar-masuk-gedung",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/perdana-menteri-australia-scott-morrison-menyatakan-darurat-biosekuriti-pada-rabu-1832929.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Perdana Menteri Australia Scott Morrison mengaku muak dan kaget setelah melihat video viral aksi tidak senonoh pejabat di Gedung Parlemen Australia."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/perdana-menteri-australia-scott-morrison-menyatakan-darurat-biosekuriti-pada-rabu-1832929.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:45:55 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/internasional/2021/03/23/parlemen-australia-diguncang-video-seksual-para-pejabat-psk-disebut-keluar-masuk-gedung"
+                    }
+                },
+                {
+                    "title": "Ombudsman RI: Pemerintah Tak Boleh Alergi Terhadap Aduan Masyarakat",
+                    "link": "https://www.tribunnews.com/nasional/2021/03/23/ombudsman-ri-pemerintah-tak-boleh-alergi-terhadap-aduan-masyarakat",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/ilustrasi-ombudsman-ilustrasi.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Kritikan masyarakat terhadap penyelenggaraan pelayanan publik mutlak menjadi bahan evaluasi kebijakan."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/ilustrasi-ombudsman-ilustrasi.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:44:30 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/nasional/2021/03/23/ombudsman-ri-pemerintah-tak-boleh-alergi-terhadap-aduan-masyarakat"
+                    }
+                },
+                {
+                    "title": "Resep Menu Sahur Enak Bulan Ramadhan: Nasi Goreng Ala Thai hingga Sambal Goreng Udang",
+                    "link": "https://www.tribunnews.com/ramadan/2021/03/23/resep-menu-sahur-enak-bulan-ramadhan-nasi-goreng-ala-thai-hingga-sambal-goreng-udang",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/nasi-goreng-thai.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Simak rekomendasi menu sahur praktis dan enak disajikan di bulan Ramadhan: Nasi Goreng Ala Thai hingga Sambal Goreng Udang"
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/nasi-goreng-thai.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:43:42 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/ramadan/2021/03/23/resep-menu-sahur-enak-bulan-ramadhan-nasi-goreng-ala-thai-hingga-sambal-goreng-udang"
+                    }
+                },
+                {
+                    "title": "VIRAL Video Haru Pemuda saat Tahu Lolos SNMPTN 2021, Akhirnya Diterima di PTN dan Jurusan Impian",
+                    "link": "https://www.tribunnews.com/regional/2021/03/23/viral-video-haru-pemuda-saat-tahu-lolos-snmptn-2021-akhirnya-diterima-di-ptn-dan-jurusan-impian",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/snm-4.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Viral video haru pemuda saat tahu lolos Seleksi Nasional Masuk Perguruan Tinggi Negeri (SNMPTN) 2021."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/snm-4.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:41:53 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/regional/2021/03/23/viral-video-haru-pemuda-saat-tahu-lolos-snmptn-2021-akhirnya-diterima-di-ptn-dan-jurusan-impian"
+                    }
+                },
+                {
+                    "title": "Lempar Sindiran, Gotham Chess Minta Juara Dunia Catur Hadapi Dewa Kipas",
+                    "link": "https://www.tribunnews.com/sport/2021/03/23/lempar-sindiran-gotham-chess-minta-juara-dunia-catur-hadapi-dewa-kipas",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/levy-rozman-gothamchess-profil.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Pecatur Amerika Serikat itu meminta juara dunia catur, Magnus Carlsen, untuk ikut serta menghadapi Dewa Kipas."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/levy-rozman-gothamchess-profil.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:38:57 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/sport/2021/03/23/lempar-sindiran-gotham-chess-minta-juara-dunia-catur-hadapi-dewa-kipas"
+                    }
+                },
+                {
+                    "title": "Sudah Mantap untuk Menikah? Simak Tips Buat Dapatkan Pasangan Idaman",
+                    "link": "https://www.tribunnews.com/lifestyle/2021/03/23/sudah-mantap-untuk-menikah-simak-tips-buat-dapetin-pasangan-idaman",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/ilustrasi-menikah-5367678.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Pandemi covid-19 kian membatasi ruang gerak seseorang yang masih jomblo untuk berkenalan dan bertemu dengan orang baru secara  tatap muka"
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/ilustrasi-menikah-5367678.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:35:34 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/lifestyle/2021/03/23/sudah-mantap-untuk-menikah-simak-tips-buat-dapetin-pasangan-idaman"
+                    }
+                },
+                {
+                    "title": "Hakim Kabulkan Sidang Offline, Rizieq Shihab Imbau Simpatisannya Tertib dan Ikuti Aturan Prokes",
+                    "link": "https://www.tribunnews.com/nasional/2021/03/23/hakim-kabulkan-sidang-offline-rizieq-shihab-imbau-simpatisannya-tertib-dan-ikuti-aturan-prokes",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/FPI-Habib-Rizieq-Shihab.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Habib Rizieq Shihab mengimbau simpatisannya di seluruh tanah air yang sengaja datang ke Pengadilan Negeri Jakarta Timur untuk disiplin"
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/FPI-Habib-Rizieq-Shihab.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:34:43 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/nasional/2021/03/23/hakim-kabulkan-sidang-offline-rizieq-shihab-imbau-simpatisannya-tertib-dan-ikuti-aturan-prokes"
+                    }
+                },
+                {
+                    "title": "Cara Membayar UTBK-SBMPTN 2021 di BRI, BTN, BNI dan Mandiri: ATM, Teller dan Mobile Banking",
+                    "link": "https://www.tribunnews.com/nasional/2021/03/23/cara-membayar-utbk-sbmptn-2021-di-bri-btn-bni-dan-mandiri-atm-teller-dan-mobile-banking",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/pendaftaran-sbmptn-2021-link-resmi-portalltmptacid.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Cara membayar UTBK-SBMPTN 2021 di BRI, BTN, BNI dan Mandiri: ATM, Teller dan Mobile Banking."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/pendaftaran-sbmptn-2021-link-resmi-portalltmptacid.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:31:56 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/nasional/2021/03/23/cara-membayar-utbk-sbmptn-2021-di-bri-btn-bni-dan-mandiri-atm-teller-dan-mobile-banking"
+                    }
+                },
+                {
+                    "title": "45 Orang Rombongan Offroad Terjebak di Hutan Aceh, Ada 8 Pejabat Pemkab, Terhalang Medan Berat",
+                    "link": "https://www.tribunnews.com/regional/2021/03/23/45-orang-rombongan-offroad-terjebak-di-hutan-aceh-ada-8-pejabat-pemkab-terhalang-medan-berat",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/45-orang-rombongan-offroad-terjebak-di-hutan-aceh-ada-8-pejabat-pemkab-terhalang-medan-berat.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Sebanyak 45 orang dari rombongan tim offroad asal Gayo Lues terjebak di kawasan hutan Aceh Tamiang."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/45-orang-rombongan-offroad-terjebak-di-hutan-aceh-ada-8-pejabat-pemkab-terhalang-medan-berat.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:29:50 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/regional/2021/03/23/45-orang-rombongan-offroad-terjebak-di-hutan-aceh-ada-8-pejabat-pemkab-terhalang-medan-berat"
+                    }
+                },
+                {
+                    "title": "Gramedia Sediakan Layanan Pesan Antar Agar Pelanggan Tetap Aman #DiRumahAja",
+                    "link": "https://www.tribunnews.com/lifestyle/2021/03/23/gramedia-sediakan-layanan-pesan-antar-agar-pelanggan-tetap-aman-dirumahaja",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/gramedia-menghadirkan-layanan-pesan-antar.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Untuk mengakses layanan Gramedia Pesan Antar, pelanggan dapat mengunjungi tautan Gramediapesanantar.com di web browser."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/gramedia-menghadirkan-layanan-pesan-antar.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:29:07 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/lifestyle/2021/03/23/gramedia-sediakan-layanan-pesan-antar-agar-pelanggan-tetap-aman-dirumahaja"
+                    }
+                },
+                {
+                    "title": "Sidang Rizieq Shihab Bakal Digelar Offline, PN Jaktim Pastikan Tayangan Virtual Tak Lagi Tersedia",
+                    "link": "https://www.tribunnews.com/nasional/2021/03/23/sidang-rizieq-shihab-bakal-digelar-offline-pn-jaktim-pastikan-tayangan-virtual-tak-lagi-tersedia",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/habib-rizieq-jalani-pemeriksaan-selama-4-jam_20170123_180123.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Pengadilan Negeri Jakarta Timur akan menghentikan tayangan streaming terkait proses jalannya persidangan Muhammad Rizieq Shihab."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/habib-rizieq-jalani-pemeriksaan-selama-4-jam_20170123_180123.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:26:50 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/nasional/2021/03/23/sidang-rizieq-shihab-bakal-digelar-offline-pn-jaktim-pastikan-tayangan-virtual-tak-lagi-tersedia"
+                    }
+                },
+                {
+                    "title": "Makin Serius Garap Pasar Notebook, Sharp Siap Luncurkan Produk Baru Harga Rp 6 Jutaan",
+                    "link": "https://www.tribunnews.com/techno/2021/03/23/makin-serius-garap-pasar-notebook-sharp-siap-luncurkan-produk-baru-harga-rp-6-jutaan",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/dynabook-satellite-pro-c-40.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Di bawah bendera Sharp, Dynabook semakin agresif menggarap pasar notebook Indonesia yang makin berkembang di masa pandemi ini."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/dynabook-satellite-pro-c-40.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:25:28 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/techno/2021/03/23/makin-serius-garap-pasar-notebook-sharp-siap-luncurkan-produk-baru-harga-rp-6-jutaan"
+                    }
+                },
+                {
+                    "title": "Gotham Chess Singgung Hadiah yang Diterima Dewa Kipas seusai Kalah Telak dari GM Irene Sukandar",
+                    "link": "https://www.tribunnews.com/sport/2021/03/23/gotham-chess-singgung-hadiah-yang-diterima-dewa-kipas-yang-kalah-telak-dari-gm-irene-sukandar",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/wgm-irene-sukandar-vs-dewa-kipas-dadang-subur.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Dia menyinggung juga soal hadiah besar yang diterima Dewa Kipas, namun tak mau mengakui kebenaran soal laga di Chess.com."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/wgm-irene-sukandar-vs-dewa-kipas-dadang-subur.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:24:17 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/sport/2021/03/23/gotham-chess-singgung-hadiah-yang-diterima-dewa-kipas-yang-kalah-telak-dari-gm-irene-sukandar"
+                    }
+                },
+                {
+                    "title": "Segmen Mikro Kian Tangguh, BRI Optimis Pelaku Usaha Kembali Ekspansi",
+                    "link": "https://www.tribunnews.com/bisnis/2021/03/23/segmen-mikro-kian-tangguh-bri-optimis-pelaku-usaha-kembali-ekspansi",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/segmen-mikro-kian-tangguh-bri-optimis-pelaku-usaha-kembali-ekspansi.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>BRI mampu menunjukkan kinerjanya dalam mendukung penyelamatan dan pemulihan usaha mikro, kecil dan menengah (UMKM)."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/segmen-mikro-kian-tangguh-bri-optimis-pelaku-usaha-kembali-ekspansi.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:23:24 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/bisnis/2021/03/23/segmen-mikro-kian-tangguh-bri-optimis-pelaku-usaha-kembali-ekspansi"
+                    }
+                },
+                {
+                    "title": "PN Jaktim Pastikan Proses Peradilan Masyarakat Tetap Berjalan Meski Ada Simpatisan Rizieq",
+                    "link": "https://www.tribunnews.com/metropolitan/2021/03/23/pn-jaktim-pastikan-proses-peradilan-masyarakat-tetap-berjalan-meski-ada-simpatisan-rizieq",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/mas-pn-jaktim-alex-adam-faisal-saat-dk.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Para simpatisan itu hadir mengaku sebagai anggota kuasa hukum Rizieq dan memaksa untuk masuk ke ruang sidang."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/mas-pn-jaktim-alex-adam-faisal-saat-dk.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:22:59 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/metropolitan/2021/03/23/pn-jaktim-pastikan-proses-peradilan-masyarakat-tetap-berjalan-meski-ada-simpatisan-rizieq"
+                    }
+                },
+                {
+                    "title": "Syarat dan Cara Daftar SPAN-PTKIN 2021, Pendaftaran Dibuka hingga 27 Maret 2021",
+                    "link": "https://www.tribunnews.com/nasional/2021/03/23/syarat-dan-cara-daftar-span-ptkin-2021-pendaftaran-dibuka-hingga-27-maret-2021",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/pendaftaran-span-ptkin-2021.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Simak syarat dan cara daftar Seleksi Prestasi Akademik Nasional Perguruan Tinggi Keagamaan Islam Negeri (SPAN-PTKIN) 2021."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/pendaftaran-span-ptkin-2021.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:21:43 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/nasional/2021/03/23/syarat-dan-cara-daftar-span-ptkin-2021-pendaftaran-dibuka-hingga-27-maret-2021"
+                    }
+                },
+                {
+                    "title": "25 Idol K-Pop Paling Tampan Menurut Fans, Jin BTS Peringkat Pertama, V BTS di Nomor Dua",
+                    "link": "https://www.tribunnews.com/seleb/2021/03/23/25-idol-k-pop-paling-tampan-menurut-fans-jin-bts-peringkat-pertama-v-bts-di-nomor-dua",
+                    "description": {
+                        "__cdata": "<img src=\"https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/jin-bts-dan-v-bts-233.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/>Berikut ini 25 idol K-Pop paling tampan menurut fans. Jin BTS menempati peringkat pertama, sementara V BTS di nomor dua."
+                    },
+                    "enclosure": {
+                        "_length": "25000",
+                        "_type": "image/jpeg",
+                        "_url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/thumbnails2/jin-bts-dan-v-bts-233.jpg"
+                    },
+                    "pubDate": "Tue, 23 Mar 2021 19:18:58 +0700",
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "https://www.tribunnews.com/seleb/2021/03/23/25-idol-k-pop-paling-tampan-menurut-fans-jin-bts-peringkat-pertama-v-bts-di-nomor-dua"
+                    }
+                }
+            ]
+        },
+        "_xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+        "_xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+        "_xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "_xmlns:atom": "http://www.w3.org/2005/Atom",
+        "_xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+        "_version": "2.0"
+    }
+}
